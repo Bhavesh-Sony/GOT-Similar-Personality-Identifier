@@ -20,4 +20,3 @@ My goal is to enrich your Game of Thrones experience by shedding light on the co
 
 🔗 Get Started:
 Visit the project website [here]( https://game-of-thrones-similar-personality-identifier.streamlit.app/) to explore the project in-depth, access the Streamlit app, and start uncovering character connections. 
-![image](https://github.com/Bhavesh-Sony/GOT-Similar-Personality-Identifier/assets/142330057/663cae1a-5705-4e6b-a731-77d311caad89)
