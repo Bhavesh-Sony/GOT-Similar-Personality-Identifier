@@ -2,7 +2,7 @@
 🐉 Uncover the hidden connections in the Game of Thrones universe with Similar Personality Identifier! 🔍  📖 This model is powered by advanced natural language processing and machine learning techniques. It dissects the rich narratives of the series and identifies the characters who share similar arcs, personalities, and roles.
 
 📖 About the Project:
-Unearth the essence of your beloved characters in the iconic series, Game of Thrones. I've meticulously collected and processed the scripts of all seasons to unravel the personalities of each character using Natural Language Processing (NLP) techniques like Bag of Words and T-SNE.
+Unearth the essence of your beloved characters in the iconic series, Game of Thrones. I've collected and processed the scripts of all seasons to unravel the personalities of each character using Natural Language Processing (NLP) techniques like Bag of Words and T-SNE.
 
 🌐 Explore Similarities:
 Innovative T-SNE projection allows you to visualize the intricate web of character similarities within the series. Simply select a character in the user-friendly Streamlit app, and watch as it reveals the character that most closely aligns with their traits, actions, and story arc.
